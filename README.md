@@ -1,4 +1,7 @@
 # Clover-ASUS-A450JF
+
+## *该版本比较古老了，请慎用。*
+
 ASUS  A450JF  
 可使用在 K450JF/X450JF. 
 
